@@ -16,7 +16,7 @@ As a software engineer, I enjoy solving real-world problems and improving people
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
