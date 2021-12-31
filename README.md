@@ -1,8 +1,4 @@
 ### Hi, I'm Theo Tarr!
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
-
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=theotarr/)
 
 I am a student and software engineer. 
