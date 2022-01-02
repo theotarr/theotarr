@@ -16,7 +16,8 @@ As a software engineer, I enjoy solving real-world problems and improving people
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-
+HTML         43 mins         ███████████████████████▓░   94.52 % 
+JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 ```
 <!--END_SECTION:waka-->
 
