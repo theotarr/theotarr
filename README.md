@@ -1,5 +1,4 @@
 ### Hi, I'm Theo Tarr!
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=theotarr/)
 
 I am a student and software engineer. 
 
