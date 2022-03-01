@@ -16,12 +16,12 @@ As a software engineer, I enjoy solving real-world problems and improving people
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 47 mins   ███████████▓░░░░░░░░░░░░░   46.93 %
-Ada          1 hr 45 mins    ███████▒░░░░░░░░░░░░░░░░░   29.60 %
-Markdown     19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-JSON         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-JavaScript   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-Docker       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+TypeScript   2 hrs 49 mins   ████████▒░░░░░░░░░░░░░░░░   33.15 %
+Ada          1 hr 45 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
+JavaScript   1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
+CSS          55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+JSON         47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Markdown     25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
 ```
 
 <!--END_SECTION:waka-->
