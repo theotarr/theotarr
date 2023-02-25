@@ -4,4 +4,4 @@
 
 ### 👋 Hi, I'm Theo Tarr!
 
-I am a student and software engineer. I am currently working at [latindictionary.io](https://www.latindictionary.io), creating Latin tools for all levels of learners. Ask me about anything, I am happy to help. You can reach me at theodore@tarr.com.
+I am a 16-year-old founder, engineer, and student. I am currently working on [Teen Talent](https://teentalent.co), building the next generation hiring platform for teens. Ask me about anything, I am happy to help. You can reach me at theodore@tarr.com.
