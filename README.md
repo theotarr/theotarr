@@ -4,4 +4,8 @@
 
 ### 👋 Hi, I'm Theo Tarr!
 
-I am a 16-year-old founder, engineer, and student. I am currently working on [Teen Talent](https://teentalent.co), building the next generation hiring platform for teens. Ask me about anything, I am happy to help. You can reach me at theodore@tarr.com.
+I am a 16-year-old founder, engineer, and student. I am currently building [KnowNotes](https://knownotes.ai), [latindictionary.io](https://latindictionary.io), and [Teen Talent](https://teentalent.co). Ask me about anything, I am happy to help.
+
+Email: theodore@tarr.com
+X: [theotarr_](https://x.com/theotarr_)
+Website: [theotarr.com](https://theotarr.com)
