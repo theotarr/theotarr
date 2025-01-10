@@ -1,7 +1,4 @@
-I'm building:
-- [KnowNotes](https://knownotes.ai)
-- [latindictionary.io](https://latindictionary.io)
-- [Teen Talent](https://teentalent.co)
+Building [KnowNotes](https://knownotes.ai), [latindictionary.io](https://latindictionary.io), and [Teen Talent](https://teentalent.co).
 
 X: [theotarr_](https://x.com/theotarr_)
 Email: theodore@tarr.com
